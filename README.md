@@ -7,3 +7,5 @@
 ## [Тестовый прогон](https://drive.google.com/file/d/1tUxxmVPXjXNZUe3cMOLbHX_fx0DYsCMW/view?usp=sharing) приложения Shopping-list
 
 ## [Отчеты о дефектах](https://docs.google.com/spreadsheets/d/1oWyVcYuSZHkkj82O8yIrVFSYKEB4aCHf/edit?usp=sharing&ouid=103191871606694972125&rtpof=true&sd=true) приложения Shopping-list
+
+## [Отчет о проведенном тестировании](https://drive.google.com/file/d/1mQezFQjnfjijBHTQtJYcxzyAaepbDn86/view?usp=sharing)
